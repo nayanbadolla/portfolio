@@ -179,7 +179,7 @@ footer {
 }
 
 .progress {
-    height: 78.5vh;
+    height: 80vh;
 }
 
 @media only screen and (max-width:768px) {
