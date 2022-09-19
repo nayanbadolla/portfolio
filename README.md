@@ -1,5 +1,5 @@
 # portfolio
-Portfolio of yours truly
+Portfolio of yours truly. One stop destination for all my projects, interests and myself.
 - fluent with HTML5, CSS3, JavaScript
 
 Self-Learning Web-Developer from Bangalore, India.
